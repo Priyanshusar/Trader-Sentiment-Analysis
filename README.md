@@ -77,8 +77,7 @@ pip install -r requirements.txt
 
 Place the following files in the root directory:
 ```
-historical_part1.csv
-historical_part2.csv
+historical_data.csv
 fear_greed_index.csv
 ```
 
