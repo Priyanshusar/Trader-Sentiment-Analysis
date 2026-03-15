@@ -57,6 +57,12 @@ trader-sentiment-analysis/
 
 > **Note:** The CSV data files are not included in this repository due to file size.
 > Download them separately and place them in the root folder before running.
+> 1) Bitcoin Market Sentiment (Fear/Greed)
+Columns: Date, Classification (Fear / Greed) Link: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
+>2) Historical Trader Data (Hyperliquid)
+Includes fields like: account, symbol, execution price, size, side, time, start position, event, closedPnL, leverage, etc.
+Link: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 ---
 
